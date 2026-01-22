@@ -15,7 +15,7 @@ A professional Enterprise Company Management System with AI Agents built using P
 
 ## Project Structure
 
-```
+```text
 AIHOLDINGS/
 ├── app/
 │   ├── api/
