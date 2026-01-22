@@ -106,9 +106,9 @@ Complete CRUD operations for all models:
 ## 🏗️ Architecture
 
 ### Technology Stack
-- **Framework**: FastAPI 0.109.0
+- **Framework**: FastAPI 0.109.1 (security patched)
 - **Database**: PostgreSQL (via SQLAlchemy 2.0.25)
-- **Authentication**: JWT (python-jose)
+- **Authentication**: JWT (python-jose 3.4.0, security patched)
 - **Password Hashing**: bcrypt (passlib)
 - **Validation**: Pydantic 2.5.3
 - **Testing**: pytest 7.4.4
